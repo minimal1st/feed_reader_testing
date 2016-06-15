@@ -12,7 +12,7 @@ Unfortunately, they decided to move on to start their own company and we're now 
 
 ## Run the application
 
-To run the application, simply open 'index.html' in your favorite browser.
+To run the application, simply open `index.html` in your favorite browser.
 
 ## Why this Project?
 
